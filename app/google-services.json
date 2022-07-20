@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46464737103",
+    "project_id": "business-card-730dc",
+    "storage_bucket": "business-card-730dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46464737103:android:f94a2cf78106f52f55af3a",
+        "android_client_info": {
+          "package_name": "com.samucael.businesscard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46464737103-aeqea0e1qucqj4d7ble01fs46nc54etf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDde9s4qd5W7ECO7jn0soPlt4j6b6c4HZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46464737103-aeqea0e1qucqj4d7ble01fs46nc54etf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
